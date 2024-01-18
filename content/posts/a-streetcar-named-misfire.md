@@ -1,5 +1,4 @@
 ---
-cvs: "$Id: a-streetcar-named-misfire.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
 author: Mark Cornick
 date: 2016-02-25
 title: A Streetcar Named Misfire

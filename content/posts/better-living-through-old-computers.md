@@ -1,5 +1,4 @@
 ---
-cvs: "$Id: better-living-through-old-computers.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
 author: Mark Cornick
 title: Better Living Through Old Computers
 date: 2023-05-09

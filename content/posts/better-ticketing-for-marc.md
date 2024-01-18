@@ -1,5 +1,4 @@
 ---
-cvs: "$Id: better-ticketing-for-marc.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
 author: Mark Cornick
 date: 2013-08-23
 title: Better Ticketing for MARC

@@ -1,5 +1,4 @@
 ---
-cvs: "$Id: coming-to-anonradio.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
 author: Mark Cornick
 date: 2021-04-24
 title: Coming to aNONradio!

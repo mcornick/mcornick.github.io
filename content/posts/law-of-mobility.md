@@ -1,5 +1,4 @@
 ---
-cvs: "$Id: law-of-mobility.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
 author: Mark Cornick
 date: 2021-12-13
 title: The Law Of Mobility

@@ -1,5 +1,4 @@
 ---
-cvs: "$Id: work-life-balance-necessarily-includes-life.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
 author: Mark Cornick
 date: 2014-10-25
 title: Work-Life Balance Necessarily Includes Life

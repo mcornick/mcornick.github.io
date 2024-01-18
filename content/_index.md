@@ -1,5 +1,4 @@
 ---
-cvs: "$Id: _index.md,v 1.7 2024/01/17 06:00:56 mcornick Exp $"
 author: Mark Cornick
 title: Mark Cornick
 date: 2024-01-06

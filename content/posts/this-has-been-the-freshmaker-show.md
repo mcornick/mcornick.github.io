@@ -1,5 +1,4 @@
 ---
-cvs: "$Id: this-has-been-the-freshmaker-show.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
 author: Mark Cornick
 title: This Has Been The Freshmaker Show
 date: 2021-10-16

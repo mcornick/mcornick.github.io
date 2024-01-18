@@ -1,5 +1,4 @@
 ---
-cvs: "$Id: kiln-notes-avoiding-duplicate-pages.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
 author: Mark Cornick
 title: "Kiln notes: avoiding duplicate pages"
 date: 2023-06-24

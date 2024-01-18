@@ -1,5 +1,4 @@
 ---
-cvs: "$Id: my-back-pages.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
 author: Mark Cornick
 date: 2023-06-24
 title: My Back Pages

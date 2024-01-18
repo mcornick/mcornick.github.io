@@ -1,5 +1,4 @@
 ---
-cvs: "$Id: dc-vs-washington.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
 author: Mark Cornick
 date: 2021-01-02
 title: The District vs. Washington

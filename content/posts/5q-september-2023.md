@@ -1,5 +1,4 @@
 ---
-cvs: "$Id: 5q-september-2023.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
 author: Mark Cornick
 title: Five Questions September 2023
 date: 2023-09-18

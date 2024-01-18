@@ -1,5 +1,4 @@
 ---
-cvs: "$Id: the-breaking-point.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
 author: Mark Cornick
 date: 2017-07-06
 title: The Breaking Point
