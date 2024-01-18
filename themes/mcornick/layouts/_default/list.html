@@ -1,0 +1,14 @@
+{{ define "main" -}}
+{{ if .Content -}}
+{{ .Content | safeHTML }}{{ end }}
+{{ if .Pages -}}
+<ul>
+{{ range .Pages -}}
+<li><a href="{{ .RelPermalink }}">{{ .Date.Format "2006-01-02" }} {{ .Title }}</a></li>
+{{ end -}}
+</ul>
+{{ end -}}
+{{ end -}}
+{{ define "nav" -}}
+<a href="{{ .Site.BaseURL }}">Home</a><br>
+{{ end -}}

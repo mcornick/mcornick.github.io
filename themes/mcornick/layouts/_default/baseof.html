@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>{{ .Title }}</title>
+<link rel="alternate" type="application/atom+xml" href="/posts/index.xml">
+<link rel="me" href="https://social.sdf.org/@mcornick">
+<link rel="stylesheet" type="text/css" href="/style.css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+</head>
+<body>
+<h1>{{ .Title }}</h1>
+{{ block "main" . -}}
+{{ end -}}
+<hr>
+<p>
+{{ block "nav" . -}}
+{{ end -}}
+Copyright {{ .Date.Format "2006" }} Mark Cornick. This work is licensed under a
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative
+Commons Attribution-ShareAlike 4.0 International License</a>.<br>
+{{ .Params.cvs }}
+</p>
+</body>
+</html>

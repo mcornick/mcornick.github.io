@@ -1,0 +1,19 @@
+{{ define "main" -}}
+<p>Posted on {{ .Date.Format "2006-01-02" }}</p>
+{{ .Content | safeHTML }}
+{{ end -}}
+{{ define "nav" -}}
+{{ if .PrevInSection }}
+<a href="{{ .PrevInSection.Permalink }}">Previous: {{ .PrevInSection.Title }}</a>
+{{ end }}
+{{ if (and .PrevInSection .NextInSection) }}
+|
+{{ end }}
+{{ if .NextInSection }}
+<a href="{{ .NextInSection.Permalink }}">Next: {{ .NextInSection.Title }}</a>
+{{ end }}
+{{ if (or .PrevInSection .NextInSection) }}
+<br>
+{{ end }}
+<a href="{{ .Site.BaseURL }}">Home</a><br>
+{{ end -}}

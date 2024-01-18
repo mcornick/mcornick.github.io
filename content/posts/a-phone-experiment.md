@@ -1,0 +1,23 @@
+---
+cvs: "$Id: a-phone-experiment.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
+author: Mark Cornick
+date: 2021-04-30
+title: A Phone Experiment
+---
+Like the majority of people who carry smartphones, I've stuck to the stock operating system on them over the years. My preference has been for iOS, since I've used Apple gear for over 30 years, but I've used Android, too. I've also come to appreciate that, while I can't know exactly how phone makers use my information, Apple has less incentive to be evil; they are primarily a hardware company that has a small advertising business, as opposed to Google, which is primarily an advertising company that has a small hardware business. As online advertising necessarily depends on evil, the contrast is obvious.
+
+Which leads to my next point: like many (but probably not the majority), I've also been concerned about privacy, tracking, and other associated nefariousness connected with smartphones. My approach is a little less paranoid than some: as the son of a former civilian scientist who held top secret clearances with the US Army, I've always assumed the government had a file on me whether I want them to or not. Likewise, I've always understood that, for instance, being a homeowner meant my name and home address were public knowledge. I am not looking to, and could not, "disappear" from the internet. It's just not possible. But, I can also make it a little more difficult for those who would seek to "know" me through my online activities.
+
+So for the month of May (actually, I started this a few days ago, but let's go with May) I'm trying something new: using a phone without as much tracking/analytics/other evil as I can manage. Here's how:
+
+* I'm starting with a phone based on [CalyxOS](https://calyxos.org/), which is built from the AOSP (Android open source) code, but with a particular focus on privacy and security. I'm running it on a Pixel 3a, which may seem silly given the point of the exercise, but the process of installing CalyxOS wipes the Google Android OS and its tracking bits, so I'm not worried about that. (Also, CalyxOS primarily supports Pixel devices, along with a few others that are aimed at non-US markets.) CalyxOS is produced by the non-profit Calyx Institute, of which I am a financial supporter.
+
+* I'm working only with free software on the phone as much as possible. CalyxOS ships with [F-Droid](https://f-droid.org/), an appstore-like repository of free and open source software. It does not ship with the Google Play Store, but does include a means for downloading some proprietary apps if needed. So far, I've only found need for one: the MLB Ballpark app, which provisions mobile tickets for the game I'm going to tomorrow. (Leave it to Major League Baseball to use their own proprietary solution instead of delivering tickets via a web site as nearly every other team in town does. I'm not going to name names, but the major ticket vendor who has "mastered" a near-monopoly at least lets you get your tickets via web - for now.)
+
+* I'm not installing Google apps or services. My primary email is not Gmail, so I don't need that; I don't watch a bunch of YouTube on my phone, so I don't need the YT app; and so on. CalyxOS includes a framework called [microG](https://microg.org/) that replicates as much of the proprietary Google frameworks in free software as is possible and necessary. This should, for instance, take care of those cases where an app wants to show a Google map, or find location using the Google APIs. I haven't run into a need for it yet, but it's there.
+
+* I'm just doing less stuff on my phone, overall. Not everything needs to be done in an environment that, while less vulnerable to surveillance than the average phone, is still not perfectly secure and/or private. For instance, having tap-to-pay functionality on a phone is convenient and handy, but I can still pull a card (or cash) out of my wallet and do things that way.
+
+As I said, I'm not aiming for a perfectly "invisible" state. I'm still using the same SIM card that I had in my iPhone. I'm still assuming that anyone who really wants to know who I am can probably find out. And I'm not planning on starting a life of crime. I'm just another average dude using a phone. If those doing surveillance are looking for wheat, I'm chaff. But at least I'm making it a little harder for them, while not making things overly hard on myself.
+
+So that's my plan. After a month or so, I should know if this is really a viable way forward. So far, it looks good; there are just a few habits and behaviors that will need adjustment, which will come with time.

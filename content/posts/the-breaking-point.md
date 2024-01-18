@@ -1,0 +1,25 @@
+---
+cvs: "$Id: the-breaking-point.md,v 1.3 2024/01/11 18:12:48 mcornick Exp $"
+author: Mark Cornick
+date: 2017-07-06
+title: The Breaking Point
+---
+My first experience with Metro was in the late 70s, when my grandparents lived in Arlington, VA. The first ride I remember was getting on the Blue line at Rosslyn and riding over to Smithsonian to go to my favorite museum, Air and Space. Several years later, I remember parking at East Falls Church, which wasn't open for train service yet, and getting on at Ballston to do more or less the same trip. (We must have gotten a bus from EFC, but I don't remember that.)
+
+I moved to Arlington after college and started riding Metro every day to my job in Bethesda. By now, it was 1996, and everyone still loved Metro. We could point to how it was clean and didn't smell bad, unlike New York or Philly or other places. Trains ran on time and didn't break down often. Later in 1996 I left that job in Bethesda and got one in Greenbelt, but in those days the Green line wasn't complete, and it was easier to drive. I still rode Metro when I needed to get downtown for some reason. It beat driving and parking in the District by a long shot. For the next almost two decades, I didn't ride Metro to work often. (I did ride MARC and MTA light rail when I worked in Towson.)
+
+Fast-forward to 2015. I've left TeamSnap, where I worked at home and thus had no need for any commuting option. My next job was downtown, and I started riding Metro every day again. And that's when I started to see what people who had been riding every day since the early 2010s were seeing. Trains didn't run on time, and broke down much more often. Track issues were frequent and disruptive. Even station infrastructure broke down; Dupont Circle, right underneath my workplace, lost cooling and became unbearably hot at times.
+
+I've always been a fan of mass transit. I prefer not to drive if I can avoid it; I've tamped down my road rage a lot in recent years, but there's still a Mr. Hyde that lives inside my usual Dr. Jekyll. Even if I'm stuck in traffic on a bus, it's not me that has to negotiate the road. If there's a way to get around a city using trains or buses or anything other than me driving a car, I'll find it and use it.
+
+The past few years have been especially shitty. By now, everyone knows about SafeTrack and how it shut down entire sections of the system for weeks, even up to a month at a time. Greenbelt, where I live, was cut off from the rest of the system for four weeks, even after College Park, the next stop down, reopened after two weeks of SafeTrack. Even before SafeTrack, Greenbelt was frequently closed or single-tracked in evenings and weekends while a test track for the 7000-series cars was built. Everyone who rides Metro has suffered, but Greenbelters have suffered more than most.
+
+And then, once Metro finished their year of SafeTrack closures, they have the gall to make customers pay, both literally and figuratively, for their failure to keep the system in good repair. Services were cut, hours of service shortened, and fares were raised. In particular, the Yellow line rush hour service to Greenbelt was eliminated, drastically cutting rush hour service and causing the same number of commuters to squeeze into fewer cars.
+
+And after all this, Metro tries to make things right by piping in elevator music at stations and handing out coupons for McDonald's coffee as a "thank you" for suffering through their ineptitude.
+
+I've been a booster of Metro for a long time, but I'm done. I'm not interested in paying for Metro's inability to get the funding they need from the local and federal governments. I'm not willing to get crushed in my train home because they somehow think removing trains from my line is a good idea. And I'm sure as hell not going to forgive what they've done to their customers in exchange for a cup of crap Mickey D's coffee.
+
+I'm not driving to work (I don't need that stress) but I'm not riding Metro if I can avoid it. I'll find another way into downtown. MARC isn't perfect, but I've had mostly good experiences. My office isn't so far from Union Station, so I could walk, or get a bus, or, if MARC ever follows through on their plans to put bike cars on weekday trains, bike from Union Station to work, where we have a bike room and, soon, a shower. Maybe, if I get really motivated and into better shape, I could bike all the way to work, but that would take over an hour. I'll figure it out soon enough.
+
+I'm done apologizing for Metro. Metro's customers didn't take it to the point of no return. It was Metro itself, and the governments that refused to adequately fund Metro, that caused the shitty state Metro is in. And I absolutely refuse to be part of Metro's collective punishment of its customers. If Metro returns to pre-SafeTrack service levels, frequency, and fares, I'll reconsider. Until then, it's my transportation of last resort, even below driving, and nothing more.
