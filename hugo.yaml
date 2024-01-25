@@ -1,0 +1,11 @@
+---
+baseURL: https://mcornick.com/
+disableKinds:
+  - taxonomy
+  - term
+languageCode: en-us
+theme: mcornick
+title: Mark Cornick
+permalinks:
+  posts: /posts/:year/:month/:day/:slug/
+# yaml-language-server: $schema=https://json.schemastore.org/hugo.json
