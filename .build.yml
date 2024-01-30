@@ -7,10 +7,10 @@ oauth: pages.sr.ht/PAGES:RW
 environment:
   site: mcornick.srht.site
 tasks:
-- package: |
-    cd $site
-    hugo
-    tar -C public -cvz . > ../site.tar.gz
-- upload: |
-    hut pages publish -d $site site.tar.gz
-    hut pages publish -d mcornick.com site.tar.gz
+  - package: |
+      cd $site
+      hugo
+      tar -C public -cvz . > ../site.tar.gz
+  - upload: |
+      hut pages publish -d $site site.tar.gz
+      hut pages publish -d mcornick.com site.tar.gz
