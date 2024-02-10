@@ -1,11 +1,29 @@
 ---
-baseURL: https://mcornick.com/
-disableKinds:
-  - taxonomy
-  - term
+baseurl: https://mcornick.com/
 languageCode: en-us
-theme: mcornick
-title: Mark Cornick
-permalinks:
-  posts: /posts/:year/:month/:day/:slug/
-# yaml-language-server: $schema=https://json.schemastore.org/hugo.json
+theme: terminal
+paginate: 5
+params:
+  contentTypeName: posts
+  themeColor: green
+  showMenuItems: 1
+  fullWidthTheme: false
+  centerTheme: false
+languages:
+  en:
+    title: Mark Cornick
+    params:
+      subtitle: Information Gladly Given But Safety Requires Avoiding Unnecessary Conversation
+      keywords: ""
+      copyright: ""
+      menuMore: Show more
+      readMore: Read more
+      readOtherPosts: Read other posts
+      logo:
+        logoText: Mark Cornick
+        logoHomeLink: /
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /about
