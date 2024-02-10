@@ -11,7 +11,7 @@ I am a classically trained percussionist, but once I left music school, I never 
 
 I'm an amateur (ham) radio operator, call sign KQ4MII. You can find more about that on [my QRZ page](https://www.qrz.com/db/KQ4MII).
 
-For fun, I write Go and Python, and a little bit of Rust. I used to write a lot of Ruby and Rails, but haven't done that in a while. You can find my code at [my Git site](https://git.mcornick.dev) and/or [Sourcehut](https://sr.ht/~mcornick). I also have a GitHub profile, but no longer use it for my own work.
+For fun, I write Go and Python, and a little bit of Rust. I used to write a lot of Ruby and Rails, but haven't done that in a while. You can find my code at [GitHub](https://github.com/mcornick).
 
 I live in Reston, Virginia, about half an hour west of Washington, DC. My time zone is US/Eastern. I speak English natively, and can read and write French and a bit of Spanish. I am male and use he/him pronouns. My last name is Cornick, not McCormick; I am unrelated to any McCormicks. My username is pronounced "em-cornick."
 
