@@ -12,14 +12,14 @@ jobs:
       - run:
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.122.0/hugo_extended_0.122.0_linux-amd64.deb
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.1.1
         with:
           fetch-depth: 0
           submodules: recursive
       - id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v4.0.0
       - run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - uses: actions/upload-pages-artifact@v2
+      - uses: actions/upload-pages-artifact@v3.0.1
         with:
           path: ./public
   deploy:
@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v3
+        uses: actions/deploy-pages@v4.0.4
 "on":
   push:
     branches:
