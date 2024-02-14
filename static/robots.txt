@@ -1,2 +1,6 @@
-User-agent: *
+User-agent: CCBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: anthropic-ai
 Disallow: /
